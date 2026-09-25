@@ -1,2 +1,2 @@
 # primalidad
-notas sobre numeros primos
+notas sobre números primos y reciprocidad.
